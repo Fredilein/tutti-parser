@@ -1,5 +1,7 @@
 # Tutti Parser
 
+Get notified via Telegram Bot when a new product which potentially interests you is available on Tutti.
+
 ## Requirements
 - Pipenv
 - Python 3.x

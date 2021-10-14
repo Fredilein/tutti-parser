@@ -1,6 +1,6 @@
 # Tutti Parser
 
-Get notified via Telegram Bot when a new product which potentially interests you is available on Tutti.
+Original project is hosted on Gitlab. This is just a copy.
 
 ## Requirements
 - Pipenv
